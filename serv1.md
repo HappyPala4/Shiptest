@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/791328015275130940/982692808953589850/t3i2WrK.png?width=1080&height=349)
+![](https://media.discordapp.net/attachments/594467784021245955/982719990576853012/t3i2WrK.png?width=1080&height=349)
 # Fallout 13
 
 Fallout 13 CBET ATOMA - билд основанный на вселенной небезызвестной Fallout - постапокалиптическому безумию на территории бывших Соединенных Штатов Америки! Умеренный уровень отыгрыша и приключений, все остается в рамках lore-friendly, мы создаем пространство уютное таким же ценителям серии как и мы. Так что, приглашаем вас присоединиться к нашему коллективному безумию на Пустошах)
@@ -19,27 +19,6 @@ Fallout 13 CBET ATOMA - билд основанный на вселенной н
 ![](https://cdn.discordapp.com/attachments/981533533610852353/981863117829070928/unknown.png)
 ![](https://cdn.discordapp.com/attachments/981533533610852353/981863143791788042/unknown.png)
 ![](https://cdn.discordapp.com/attachments/981533533610852353/981863056265084928/unknown.png)
-
+![](https://media.discordapp.net/attachments/594467784021245955/982719877737508924/unknown.png?width=781&height=493)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
