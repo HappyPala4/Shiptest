@@ -16,7 +16,7 @@ Fallout 13 CBET ATOMA - билд основанный на вселенной н
 
 <div id=картинки>
 
-![]https://cdn.discordapp.com/attachments/981533533610852353/981863117829070928/unknown.png)
+![](https://cdn.discordapp.com/attachments/981533533610852353/981863117829070928/unknown.png)
 ![](https://cdn.discordapp.com/attachments/981533533610852353/981863143791788042/unknown.png)
 ![](https://cdn.discordapp.com/attachments/981533533610852353/981863056265084928/unknown.png)
 
