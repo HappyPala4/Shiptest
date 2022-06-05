@@ -2,8 +2,10 @@ GLOBAL_LIST_INIT(donations_list, list(
 
 	"Hats" = list(
 
-		new /datum/donate_info("Snus",					/obj/item/clothing/head/cowboy/sec/minutemen,						150),
+		new /datum/donate_info("Hat of Minutemen",					/obj/item/clothing/head/cowboy/sec/minutemen,						150),
+		new /datum/donate_info("SolGov Helmet",					/obj/item/clothing/head/helmet/solgov,						500),
 		new /datum/donate_info("Beret",						/obj/item/clothing/head/beret,							150),
+		new /datum/donate_info("Pirate Captain Hat",						/obj/item/clothing/head/pirate/captain,							150),
 		new /datum/donate_info("Marisa hat",				/obj/item/clothing/head/witchwig,						150),
 		new /datum/donate_info("Bear pelt",					/obj/item/clothing/head/bearpelt,						175),
 		new /datum/donate_info("Scarecrow Hat",				/obj/item/clothing/head/scarecrow_hat,					175),
@@ -13,6 +15,7 @@ GLOBAL_LIST_INIT(donations_list, list(
 		new /datum/donate_info("Santa Hat",					/obj/item/clothing/head/santa,							150),
 		new /datum/donate_info("Crown",						/obj/item/clothing/head/crown/fancy,					500),
 		new /datum/donate_info("Bunny Hat",					/obj/item/clothing/head/bunnyhead,						100),
+		new /datum/donate_info("Syndicate Cap",					/obj/item/clothing/head/HoS/syndicate,						1500),
 		new /datum/donate_info("Gladiator Helmet",			/obj/item/clothing/head/helmet/gladiator,				150),
 	),
 
@@ -70,10 +73,14 @@ GLOBAL_LIST_INIT(donations_list, list(
 	"Coats" = list(
 
 		new /datum/donate_info("Leather Coat",				/obj/item/clothing/suit/jacket/leather/overcoat,			150),
+		new /datum/donate_info("SolGov armor",				/obj/item/clothing/suit/armor/vest/solgov,			500),
 		new /datum/donate_info("Puffer jacket",				/obj/item/clothing/suit/jacket/puffer,						100),
 		new /datum/donate_info("Winter coat",				/obj/item/clothing/suit/hooded/wintercoat,					100),
 		new /datum/donate_info("Imperium Dress",			/obj/item/clothing/suit/imperium_monk,						150),
 		new /datum/donate_info("Dracula Coat",				/obj/item/clothing/suit/dracula,							125),
+		new /datum/donate_info("Armor",					/obj/item/clothing/suit/armor/vest,							300),
+		new /datum/donate_info("Syndicate Captain's Armor",					/obj/item/clothing/suit/armor/vest/capcarapace/syndicate,							1500),
+		new /datum/donate_info("Pirate Captain Coat",				/obj/item/clothing/suit/pirate/captain,							125),
 		new /datum/donate_info("Emo Coat",					/obj/item/clothing/suit/gothcoat,							100),
 	),
 
@@ -81,7 +88,10 @@ GLOBAL_LIST_INIT(donations_list, list(
 
 		new /datum/donate_info("Jeans",						/obj/item/clothing/under/pants/jeans,				75),
 		new /datum/donate_info("Camouflage Suit",			/obj/item/clothing/under/syndicate/camo,			150),
+		new /datum/donate_info("SolGov fatigues",		/obj/item/clothing/under/solgov,			150),
+		new /datum/donate_info("SolGov elite fatigues",		/obj/item/clothing/under/solgov/elite,			300),
 		new /datum/donate_info("Black Combat Uniform",		/obj/item/clothing/under/syndicate/combat,			150),
+		new /datum/donate_info("Gorlex Marauder Uniform",		/obj/item/clothing/under/syndicate/gorlex,			150),
 
 	),
 
@@ -105,6 +115,7 @@ GLOBAL_LIST_INIT(donations_list, list(
 		new /datum/donate_info("Black Gloves",				/obj/item/clothing/gloves/color/black,				125),
 		new /datum/donate_info("Boxing Gloves",				/obj/item/clothing/gloves/boxing,					200),
 		new /datum/donate_info("Latex Gloves",				/obj/item/clothing/gloves/color/latex,				150),
+		new /datum/donate_info("Combat Gloves",				/obj/item/clothing/gloves/combat,				150),
 		new /datum/donate_info("Fingerless Gloves",			/obj/item/clothing/gloves/fingerless,				75),
 
 	),
