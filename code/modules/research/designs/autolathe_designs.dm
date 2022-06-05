@@ -1152,11 +1152,7 @@
 	name = "Floor Painter"
 	id = "floor_painter"
 	build_type = AUTOLATHE | PROTOLATHE
-<<<<<<< HEAD
 	materials = list(/datum/material/iron = 5000, /datum/material/glass = 2000)
-=======
-	materials = list(/datum/material/iron = 200, /datum/material/glass = 50)
->>>>>>> upstream/master
 	build_path = /obj/item/floor_painter
 	category = list("initial","Tools","Tool Designs")
 	departmental_flags = DEPARTMENTAL_FLAG_ENGINEERING | DEPARTMENTAL_FLAG_SERVICE
