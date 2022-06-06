@@ -533,6 +533,15 @@
 	for(var/i in 1 to created_volume)
 		new /obj/item/stack/sheet/plastic(location)
 
+/datum/chemical_reaction/synthcloth_polymers
+ required_reagents = list(/datum/reagent/water = 7, /datum/reagent/cellulose = 2, /datum/reagent/lye = 1)
+ required_temp = 374 //lazily consistent with soap & other crafted objects generically created with heat.
+
+/datum/chemical_reaction/synthcloth_polymers/on_reaction(datum/reagents/holder, created_volume)
+ var/location = get_turf(holder.my_atom)
+ for(var/i in 1 to created_volume)
+  new /obj/item/stack/sheet/cotton/cloth(location)
+
 /datum/chemical_reaction/pax
 	results = list(/datum/reagent/pax = 3)
 	required_reagents  = list(/datum/reagent/toxin/mindbreaker = 1, /datum/reagent/medicine/synaptizine = 1, /datum/reagent/water = 1)

@@ -79,7 +79,7 @@ GLOBAL_LIST_INIT(donations_list, list(
 		new /datum/donate_info("Winter coat",				/obj/item/clothing/suit/hooded/wintercoat,					100),
 		new /datum/donate_info("Imperium Dress",			/obj/item/clothing/suit/imperium_monk,						150),
 		new /datum/donate_info("Dracula Coat",				/obj/item/clothing/suit/dracula,							125),
-		new /datum/donate_info("Survivor Suit",				/obj/item/clothing/suit/hooded/survivor,							250),
+		new /datum/donate_info("Survivor Suit",				/obj/item/clothing/suit/hooded/survivor,							750),
 		new /datum/donate_info("Armor",					/obj/item/clothing/suit/armor/vest,							300),
 		new /datum/donate_info("Witch Robe",					/obj/item/clothing/suit/wizrobe/marisa,							300),
 		new /datum/donate_info("Syndicate Captain's Armor",					/obj/item/clothing/suit/armor/vest/capcarapace/syndicate,							1500),
