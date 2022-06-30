@@ -28,7 +28,6 @@ GLOBAL_LIST_INIT(donations_list, list(
 		new /datum/donate_info("Horse Head Mask",			/obj/item/clothing/mask/horsehead,						150),
 		new /datum/donate_info("Tiki Mask",					/obj/item/clothing/mask/gas/tiki_mask,					100),
 		new /datum/donate_info("Advanced Mask",				/obj/item/clothing/mask/gas/syndicate,					150),
-		new /datum/donate_info("Toy Facehugger",			/obj/item/clothing/mask/facehugger/toy,					250),
 		new /datum/donate_info("Medical Mask",				/obj/item/clothing/mask/surgical,						50),
 		new /datum/donate_info("Plague Doctor Mask",		/obj/item/clothing/mask/gas/plaguedoctor,				175),
 		new /datum/donate_info("Clown Mask",				/obj/item/clothing/mask/gas/clown_hat,					150),
